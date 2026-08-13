@@ -2,7 +2,7 @@
 
 This repository hosts my professional resume, automatically deployed via GitHub Pages to ensure a permanent, always-up-to-date link for job applications.
 
-📍 **Live Resume Link:** [https://yourusername.github.io/resume/Umang_Gupta_Resume.pdf](https://yourusername.github.io/resume/Umang_Gupta_Resume.pdf)
+📍 **Live Resume Link:** [https://guptaumang769.github.io/resume/Umang_Gupta_Resume.pdf](https://guptaumang769.github.io/resume/Umang_Gupta_Resume.pdf)
 
 ---
 
